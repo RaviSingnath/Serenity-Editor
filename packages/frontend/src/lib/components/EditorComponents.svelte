@@ -638,7 +638,7 @@
 		</Modal>
 	{/if}
 {/if}
-<div bind:this={element} class="mt-25 md:w-3/4" />
+<div bind:this={element} class="RAVI mt-25 md:w-3/4" />
 
 <style global>
 	.ProseMirror {
